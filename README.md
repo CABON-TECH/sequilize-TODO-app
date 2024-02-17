@@ -58,7 +58,6 @@ POST /todos
 #### Request Body:
 
 ```json
-Copy code
 {
   "title": "Your todo title here"
 }
